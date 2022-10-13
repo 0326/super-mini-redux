@@ -1,5 +1,5 @@
-import * as redux from 'redux';
-// import * as redux from './super-mini-redux'; // 使用 super-mini-redux 达到同样效果
+// import * as redux from 'redux';
+import * as redux from './super-mini-redux'; // 使用 super-mini-redux 达到同样效果
 
 // step1: 初始化 reducer 函数
 const initialState = {
